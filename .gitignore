@@ -1,0 +1,14 @@
+# Игнорировать виртуальное окружение
+venv/
+.venv/
+
+# Файлы VS Code
+.vscode/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# Секреты
+*.env
+.env
